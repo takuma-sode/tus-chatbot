@@ -1,0 +1,24 @@
+# データ（非公開）
+data/
+
+# ChromaDB永続化データ
+chroma_db/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# 環境変数
+.env

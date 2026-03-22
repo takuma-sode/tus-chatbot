@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+sentence-transformers
+rank_bm25
+ollama
+pandas
